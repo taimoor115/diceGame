@@ -1,0 +1,40 @@
+.container{
+    margin: auto;
+    width: 70%;
+}
+body{
+    background-color:black;
+    text-align: center;
+    color: red;
+    
+}
+h1{
+    font-size: xx-large;
+    font-size: 7rem;
+}
+.dice{
+    display: inline-block;
+    font-size: 2rem;
+}
+img{
+    width: 80%;
+}
+.btn a:link,a:visited{
+    text-decoration: none;
+    background-color:black;
+    color: red;
+    padding: 10px;
+    border: 1px solid red;
+}
+.btn a:hover,a:active{
+    background-color:red;
+    color:white;
+    border: 2px solid red;
+}
+.btn{
+    margin-top: 30px;
+}
+.footer{
+    position: relative;
+    top: 30px;    
+}
